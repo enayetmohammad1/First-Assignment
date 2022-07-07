@@ -1,0 +1,77 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    text
+
+}
+h1{
+    font-size:60px ;
+    
+
+}
+
+p{ 
+    font-size: 25px;
+}
+section{
+    display: flex;
+}
+.text-center{
+    color: white;
+    text-align: center;
+    padding-left: 15%;
+    font-weight:bold;
+    background-image: url(images/donation3.jpg);
+    width: 100%;
+    height: 100%;
+    padding-top: 10%;
+
+    
+}
+.donate-button{
+    color: aliceblue;
+    background-color: orange;
+    font-size: 30px;
+    padding: 10px 40px;
+    border-radius:20px ;
+    
+}
+
+
+.sectext-center{
+    text-align: center;
+    padding-left: 20%;
+    font-weight:700 ;
+    padding-top: 10%;
+    padding-right: 22%;
+    
+
+}
+.second-donate{
+    color: aliceblue;
+    background-color: orange;
+    font-size: 30px;
+    padding: 10px 40px;
+    padding-left: 
+    border-radius: 20px;
+    
+}
+
+
+
+.flexible-container{
+    display: ;
+    margin-bottom: 150px;
+    width: 20px;
+    text-align: center;
+    padding-left: 20%;
+    padding-top: 5%;
+    word-spacing: 10%;
+}
+#two-thousand{
+    color: brown;
+}
+#taka-amount{
+    text-align: center;
+    padding-left: 50%;
+    padding-bottom: 80%;
+}
